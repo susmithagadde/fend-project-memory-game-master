@@ -1,5 +1,19 @@
 # Memory Game Project
 
+## What is the Memory Game
+This is a simple game built to test a users memory. There's a deck of cards with different icons. 
+
+## Challenge
+Match cards in less time with less moves.
+
+## How I built the Memory Game
+I manipulated the DOM with JS, altered part of the HTML and also styled the game
+
+- Created a deck of cards that shuffles when game is refreshed
+- Created a counter to count the number of moves made by player and timer to know the duration of a play
+- Added effects to cards when they match and are unmatched
+- Create a pop-up modal when player wins game
+
 ## Table of Contents
 
 * [Instructions](#instructions)
